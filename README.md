@@ -3,8 +3,8 @@
 
 ## Student Information
 
-- Student Name: Nguyễn Văn A
-- Student ID: 12345678
+- Student Name: Nguyễn Ngọc Chi 
+- Student ID: 4956010017
 - Course: Digital Skills
 - University: ABC University
 
